@@ -1,0 +1,16 @@
+/home/sapient/Documents/uservendor-activity-service/src/main/java/com/offershopper/uservendoractivityservice/rabbit/MessageSender.java
+/home/sapient/Documents/uservendor-activity-service/src/main/java/com/offershopper/uservendoractivityservice/uservendoractivityproxy/ProfileProxy.java
+/home/sapient/Documents/uservendor-activity-service/src/main/java/com/offershopper/uservendoractivityservice/uservendoractivityproxy/OfferProxy.java
+/home/sapient/Documents/uservendor-activity-service/src/main/java/com/offershopper/uservendoractivityservice/controller/UserVendorActivityController.java
+/home/sapient/Documents/uservendor-activity-service/src/main/java/com/offershopper/uservendoractivityservice/model/SubscribeBean.java
+/home/sapient/Documents/uservendor-activity-service/src/main/java/com/offershopper/uservendoractivityservice/UservendorActivityServiceApplication.java
+/home/sapient/Documents/uservendor-activity-service/src/main/java/com/offershopper/uservendoractivityservice/model/AddressBean.java
+/home/sapient/Documents/uservendor-activity-service/src/main/java/com/offershopper/uservendoractivityservice/rabbit/RetrieveMessagesFromGenericQueue.java
+/home/sapient/Documents/uservendor-activity-service/src/main/java/com/offershopper/uservendoractivityservice/uservendoractivityproxy/WishlistProxy.java
+/home/sapient/Documents/uservendor-activity-service/src/main/java/com/offershopper/uservendoractivityservice/model/WishlistBean.java
+/home/sapient/Documents/uservendor-activity-service/src/main/java/com/offershopper/uservendoractivityservice/model/UserBean.java
+/home/sapient/Documents/uservendor-activity-service/src/main/java/com/offershopper/uservendoractivityservice/model/OfferBean.java
+/home/sapient/Documents/uservendor-activity-service/src/main/java/com/offershopper/uservendoractivityservice/uservendoractivityproxy/SubscribeProxy.java
+/home/sapient/Documents/uservendor-activity-service/src/main/java/com/offershopper/uservendoractivityservice/model/CarryBagBean.java
+/home/sapient/Documents/uservendor-activity-service/src/main/java/com/offershopper/uservendoractivityservice/uservendoractivityproxy/ReferralProxy.java
+/home/sapient/Documents/uservendor-activity-service/src/main/java/com/offershopper/uservendoractivityservice/uservendoractivityproxy/CarryBagProxy.java
